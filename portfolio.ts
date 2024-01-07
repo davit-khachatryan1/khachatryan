@@ -296,6 +296,6 @@ export const seoData: SEODataType = {
   description: 'A passionate Full Stack Web Developer',
   author: 'Davit Khachatryan',
   image: 'https://cleverjobs.net/storage/users-photo/313414/OVuVyJjQ1S.png',
-  url: 'https://developer-portfolio-davit-khachatryan1.vercel.app',
+  // url: 'https://developer-portfolio-davit-khachatryan1.vercel.app',
   keywords: ['Davit', 'Davit Khachatryan', 'Project', 'Front end'],
 };
