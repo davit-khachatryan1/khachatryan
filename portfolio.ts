@@ -15,7 +15,7 @@ export const greetings: GreetingsType = {
   name: 'Davit Khachatryan',
   title: "Hi , I'm Davit",
   description:
-    "I'm passionate Full Stack web developer having an experience of web applications with  React.js, Next.js and Blockchain development on Ethereum, Web3.js: Well-versed in technology and writing code to create systems that are reliable and user-friendly. Confident communicator and strategic thinker who is ready to develop software that is customized to meet a company's organizational needs, highlight its core competencies, and further its success",
+    "I'm  Full Stack web developer having an experience of web applications with  React.js, Next.js and Blockchain development on Ethereum, Web3.js: Well-versed in technology and writing code to create systems that are reliable and user-friendly. Confident communicator and strategic thinker who is ready to develop software that is customized to meet a company's organizational needs, highlight its core competencies, and further its success",
   resumeLink:
     'https://docs.google.com/document/d/1_4RIfbyt4FFHW_bNplnoINQr01neTu7XDeeUlT_2O_k/edit?usp=sharing',
 };
