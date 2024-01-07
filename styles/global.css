@@ -20481,7 +20481,7 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-handle {
 .headroom--not-top {
 	padding-top: 0.5rem;
 	padding-bottom: 0.5rem;
-	background-color: black !important;
+	background-color: #303746 !important;
 	box-shadow: 0 1px 10px rgba(130, 130, 134, 0.1);
 }
 
