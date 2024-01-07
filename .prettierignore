@@ -1,0 +1,6 @@
+public/lottie/
+.next
+.vscode
+./dist
+styles/global.css
+styles/vendor/**/*.css
