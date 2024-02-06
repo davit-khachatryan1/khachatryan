@@ -250,7 +250,7 @@ export const experience: ExperienceType[] = [
     role: 'Frontend Developer',
     company: 'Freelance/Upwork',
     companyLogo: '/img/icons/common/upwork.png',
-    date: 'Jun 2020 - Jul 2021',
+    date: 'Jun 2019 - Present',
     desc: `🗸 Participated in project kick-off meetings with clients, business analysts, and development teams to gather and clarify business requirements.
      🗸 Contributed to defining project scope, timelines, and resource allocation for front-end development tasks.
      🗸 Designed, built, and tested feature-rich web applications and functionalities meeting user needs and business objectives.
@@ -262,7 +262,7 @@ export const projects: ProjectType[] = [
   {
     name: 'Solit website',
     desc: 'It company website created with Next js, Redux Toolkit, SCSS and Python',
-    // github: 'https://github.com/davit-khachatryan1/developer-portfolio',
+    github: 'https://github.com/davit-khachatryan1/solit-web',
     link: 'https://solit-llc.com/',
   },
   {
