@@ -17,11 +17,11 @@ export const greetings: GreetingsType = {
   description:
     "I'm  Full Stack web developer having an experience of web applications with  React.js, Next.js and Blockchain development on Ethereum, Web3.js: Well-versed in technology and writing code to create systems that are reliable and user-friendly. Confident communicator and strategic thinker who is ready to develop software that is customized to meet a company's organizational needs, highlight its core competencies, and further its success",
   resumeLink:
-    'https://docs.google.com/document/d/1_4RIfbyt4FFHW_bNplnoINQr01neTu7XDeeUlT_2O_k/edit?usp=sharing',
+    'https://docs.google.com/document/d/1yadRSHrJsQ8u6_FlX-mqBtNP9_9fkXxnH9jIMksb-yY/edit',
 };
 
 export const openSource = {
-  githubUserName: '1Davit100',
+  githubUserName: 'davit-khachatryan1',
 };
 
 export const contact = {};
@@ -37,7 +37,7 @@ export const socialLinks: SocialLinksType = {
 
 export const skillsSection: SkillsSectionType = {
   title: 'What I do',
-  subTitle: 'CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK',
+  subTitle: 'FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK',
   data: [
     {
       title: 'Full Stack Development',
